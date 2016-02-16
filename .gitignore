@@ -1,3 +1,5 @@
+*.gz
+
 # Compiled Object files
 *.slo
 *.lo
