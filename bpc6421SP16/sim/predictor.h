@@ -13,11 +13,15 @@ class PREDICTOR{
   // The state is defined for Gshare, change for your design
 
  private:
+  UINT32 numBhtEntries;
+  UINT32 *bht;
+  UINT32 *bhtCounters;
+/*
   UINT32  ghr;           // global history register
   UINT32  *pht;          // pattern history table
   UINT32  historyLength; // history length
   UINT32  numPhtEntries; // entries in pht 
-
+*/
  public:
 
   // The interface to the four functions below CAN NOT be changed

@@ -1,0 +1,28 @@
+
+ResultDirs ==>      	ts/GSHARE.32KB	
+
+LONG-SPEC2K6-00     	       5.139 	
+LONG-SPEC2K6-01     	       7.927 	
+LONG-SPEC2K6-02     	      14.362 	
+LONG-SPEC2K6-03     	       6.874 	
+LONG-SPEC2K6-04     	      13.533 	
+LONG-SPEC2K6-05     	       6.707 	
+LONG-SPEC2K6-06     	       5.437 	
+LONG-SPEC2K6-07     	      18.270 	
+LONG-SPEC2K6-08     	       2.137 	
+LONG-SPEC2K6-09     	       6.998 	
+SHORT-FP-1          	       4.324 	
+SHORT-FP-2          	       1.808 	
+SHORT-FP-3          	       0.567 	
+SHORT-INT-1         	      12.334 	
+SHORT-INT-2         	      11.309 	
+SHORT-INT-3         	      15.042 	
+SHORT-MM-1          	      10.239 	
+SHORT-MM-2          	      13.520 	
+SHORT-MM-3          	       4.973 	
+SHORT-SERV-1        	       5.807 	
+SHORT-SERV-2        	       5.916 	
+SHORT-SERV-3        	       7.210 	
+
+AMEAN               	       8.202 	
+
